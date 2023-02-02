@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://cdn.shopify.com/s/files/1/0524/4390/6207/files/site-preview.gif?v=1630892895" alt="shopify next.js course preview">
   <p align="center">
-    <a href="https://shopify-next-js-tailwind-seven.vercel.app/">Live Demo Store</a> | <a href="https://www.upwork.com/freelancers/~01adae76a6fd6cd404">Hire me</a>
+    <a href="https://shopify-next.doroshev.co">Live Demo Store</a> | <a href="https://www.upwork.com/freelancers/~01adae76a6fd6cd404">Hire me</a>
   </p>
 </div>
 
